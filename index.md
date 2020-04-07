@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## How to download emoji?
 
-You can use the [editor on GitHub](https://github.com/BYTEMA/emojisite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Turn on developer mode in the discord.
+Open dicord server witjh emoji.
+Write: :-:emoji: (work only on mobile)
+Copy emoji id.
+Paste emoji id on the top.
+Click on download button.
 
 ### Markdown
 
